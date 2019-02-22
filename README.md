@@ -30,6 +30,8 @@ So steps in TTT program are:
 
 
 ## Notes
+neotrellis docs: https://adafruit.github.io/Adafruit_Seesaw/html/class_adafruit___neo_trellis.html
+
 neotrellis manual: https://cdn-learn.adafruit.com/downloads/pdf/adafruit-neotrellis.pdf
 
 avr blink program:  https://electronics.stackexchange.com/questions/340607/avr-atmega328p-led-example
