@@ -4,7 +4,7 @@ make main.obj && make main.hex && make program
 ```
 
 
-## Where I left off
+## Todo
 * Update main.c to get delay time from another file, lib.c
   (main.c is the TTT program, lib.c is the buttons/lights lib)
 * Call a function in lib.c to get the delay time
@@ -30,6 +30,8 @@ So steps in TTT program are:
 
 
 ## Notes
+neotrellis manual: https://cdn-learn.adafruit.com/downloads/pdf/adafruit-neotrellis.pdf
+
 avr blink program:  https://electronics.stackexchange.com/questions/340607/avr-atmega328p-led-example
 
 avr programming: https://hackaday.com/2010/10/23/avr-programming-introduction/
