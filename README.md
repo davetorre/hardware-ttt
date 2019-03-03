@@ -1,3 +1,32 @@
+## Just use HTTP
+
+POST /button-pressed
+{
+  index: 2,
+  state: [
+    green,
+    null,
+    null,
+    ...
+  ]
+}
+
+returns:
+{
+  state: [
+    green,
+    null,
+    blue,
+    ...
+  ]
+}
+  
+   
+
+
+
+
+
 ## Compile and run
 ```
 make main.obj && make main.hex && make program
